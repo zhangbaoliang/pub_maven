@@ -20,15 +20,15 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>androidx.appcompat</groupId>
-      <artifactId>appcompat</artifactId>
-      <version>1.0.2</version>
+      <groupId>com.basemvplib</groupId>
+      <artifactId>utils_lib</artifactId>
+      <version>1.0.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>BookSelfLibrary</groupId>
-      <artifactId>utils_lib</artifactId>
-      <version>unspecified</version>
+      <groupId>androidx.appcompat</groupId>
+      <artifactId>appcompat</artifactId>
+      <version>1.0.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
