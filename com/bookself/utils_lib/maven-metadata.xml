@@ -3,10 +3,11 @@
   <groupId>com.bookself</groupId>
   <artifactId>utils_lib</artifactId>
   <versioning>
-    <release>unspecified</release>
+    <release>1.0.2</release>
     <versions>
       <version>unspecified</version>
+      <version>1.0.2</version>
     </versions>
-    <lastUpdated>20200305173127</lastUpdated>
+    <lastUpdated>20200305174047</lastUpdated>
   </versioning>
 </metadata>
